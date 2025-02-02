@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: prod
+
+build:
+  version: 1.0
+
+accounts:
+  message: Welcome to EzayBank Accounts prod APIs
+  contactDetails:
+    name: Yvz yvz - Product Owner
+    email: yvz.yvz@example.com
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 555-5678

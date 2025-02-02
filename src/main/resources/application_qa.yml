@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: qa
+
+build:
+  version: 2.0
+
+accounts:
+  message: Welcome to EzayBank Accounts related QA APIs
+  contactDetails:
+    name: Ozn Klnc - Backend Developer
+    email: ozn.klnc@example.com
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 555-5678
